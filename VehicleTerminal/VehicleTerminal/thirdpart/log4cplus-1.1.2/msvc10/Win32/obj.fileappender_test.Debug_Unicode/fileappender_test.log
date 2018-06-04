@@ -1,0 +1,46 @@
+﻿生成启动时间为 2017/10/15 18:11:47。
+     1>项目“D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\tests\fileappender_test.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.fileappender_test.Debug_Unicode\fileappender_test.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D LOG4CPLUS_BUILD_DLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.fileappender_test.Debug_Unicode\\" /Fd"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\bin.Debug_Unicode\fileappender_test.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\tests\fileappender_test\main.cxx
+         {{xgTaskID=000000A7}}
+         main.cxx
+         {{xgTaskID=00000000}}
+       ManifestResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.fileappender_test.Debug_Unicode\fileappender_test.exe.embed.manifest.res" D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.fileappender_test.Debug_Unicode\fileappender_test_manifest.rc 
+         {{xgTaskID=000000C2}}
+         
+         {{xgTaskID=00000000}}
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\bin.Debug_Unicode\fileappender_test.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\bin.Debug_Unicode" log4cplusud.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.fileappender_test.Debug_Unicode\fileappender_test.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\bin.Debug_Unicode\fileappender_test.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /IMPLIB:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\bin.Debug_Unicode\fileappender_test.lib" /MACHINE:X86 "D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.fileappender_test.Debug_Unicode\fileappender_test.exe.embed.manifest.res"
+         "D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.fileappender_test.Debug_Unicode\main.obj"
+         "D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\bin.Debug_Unicode\log4cplusUD.lib"
+         {{xgTaskID=000000CE}}
+         
+         {{xgTaskID=00000000}}
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.fileappender_test.Debug_Unicode\fileappender_test.exe.embed.manifest" /manifest "D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.fileappender_test.Debug_Unicode\fileappender_test.exe.intermediate.manifest"
+         {{xgTaskID=000000D9}}
+         
+         {{xgTaskID=00000000}}
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.fileappender_test.Debug_Unicode\fileappender_test.exe.embed.manifest.res" D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.fileappender_test.Debug_Unicode\fileappender_test_manifest.rc 
+         {{xgTaskID=000000DB}}
+         
+         {{xgTaskID=00000000}}
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\bin.Debug_Unicode\fileappender_test.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\bin.Debug_Unicode" log4cplusud.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.fileappender_test.Debug_Unicode\fileappender_test.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\bin.Debug_Unicode\fileappender_test.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /IMPLIB:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\bin.Debug_Unicode\fileappender_test.lib" /MACHINE:X86 "D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.fileappender_test.Debug_Unicode\fileappender_test.exe.embed.manifest.res"
+         "D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.fileappender_test.Debug_Unicode\main.obj"
+         "D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\bin.Debug_Unicode\log4cplusUD.lib"
+         {{xgTaskID=000000DC}}
+         
+         {{xgTaskID=00000000}}
+         fileappender_test.vcxproj -> D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\bin.Debug_Unicode\fileappender_test.exe
+       FinalizeBuildStatus:
+         正在删除文件“D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.fileappender_test.Debug_Unicode\fileappender_test.unsuccessfulbuild”。
+         正在对“D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.fileappender_test.Debug_Unicode\fileappender_test.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\tests\fileappender_test.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.10

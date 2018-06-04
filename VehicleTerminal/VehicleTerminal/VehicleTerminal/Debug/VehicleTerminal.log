@@ -1,0 +1,25 @@
+﻿生成启动时间为 2017/8/1 22:08:41。
+     1>项目“D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\VehicleTerminal\VehicleTerminal.vcxproj”在节点 3 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\VehicleTerminal.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\..\bin\\VehicleTerminald.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.1.1\5.1.1\msvc2010\lib /LIBPATH:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\..\lib\Win32" qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Multimediad.lib Qt5Networkd.lib Qt5Qmld.lib Qt5Sqld.lib Qt5Scriptd.lib Qt5Widgetsd.lib VehicleTerminalControlsd.lib VehicleTerminalUserInterfaced.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\VehicleTerminald.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\zhangh-t\ax\VehicleTerminal\bin\VehicleTerminald.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\..\bin\VehicleTerminald.lib" /MACHINE:X86 Debug\main.obj
+         {{xgTaskID=0000000C}}
+         LINK : 没有找到 D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\..\bin\\VehicleTerminald.exe 或上一个增量链接没有生成它；正在执行完全链接
+         {{xgTaskID=00000000}}
+         VehicleTerminal.vcxproj -> D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\..\bin\VehicleTerminald.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\..\bin\\VehicleTerminald.exe;#1" /manifest Debug\VehicleTerminald.exe.intermediate.manifest
+         {{xgTaskID=0000000D}}
+         
+         {{xgTaskID=00000000}}
+       FinalizeBuildStatus:
+         正在删除文件“Debug\VehicleTerminal.unsuccessfulbuild”。
+         正在对“Debug\VehicleTerminal.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\VehicleTerminal\VehicleTerminal.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.49

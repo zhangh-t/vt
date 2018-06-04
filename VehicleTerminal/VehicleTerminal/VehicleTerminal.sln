@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VehicleTerminal", "VehicleTerminal\VehicleTerminal.vcxproj", "{11953ABF-0934-4447-AC05-3FD5A703D038}"
+	ProjectSection(ProjectDependencies) = postProject
+		{42DE7E71-0DA8-4A7C-AB3B-A8671F9107C4} = {42DE7E71-0DA8-4A7C-AB3B-A8671F9107C4}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VehicleTerminalControls", "VehicleTerminalControls\VehicleTerminalControls.vcxproj", "{42DE7E71-0DA8-4A7C-AB3B-A8671F9107C4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VehicleTerminalUserInterface", "VehicleTerminalUserInterface\VehicleTerminalUserInterface.vcxproj", "{C23B0C8A-AF62-4B8C-BDA8-A2D3BBEEC534}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VehicleTerminalCommunicationTools", "VehicleTerminalCommunicationTools\VehicleTerminalCommunicationTools.vcxproj", "{002F232B-B379-4AF7-A00A-85744B7E43F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11953ABF-0934-4447-AC05-3FD5A703D038}.Debug|Win32.ActiveCfg = Debug|Win32
+		{11953ABF-0934-4447-AC05-3FD5A703D038}.Debug|Win32.Build.0 = Debug|Win32
+		{11953ABF-0934-4447-AC05-3FD5A703D038}.Release|Win32.ActiveCfg = Release|Win32
+		{11953ABF-0934-4447-AC05-3FD5A703D038}.Release|Win32.Build.0 = Release|Win32
+		{42DE7E71-0DA8-4A7C-AB3B-A8671F9107C4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{42DE7E71-0DA8-4A7C-AB3B-A8671F9107C4}.Debug|Win32.Build.0 = Debug|Win32
+		{42DE7E71-0DA8-4A7C-AB3B-A8671F9107C4}.Release|Win32.ActiveCfg = Release|Win32
+		{42DE7E71-0DA8-4A7C-AB3B-A8671F9107C4}.Release|Win32.Build.0 = Release|Win32
+		{C23B0C8A-AF62-4B8C-BDA8-A2D3BBEEC534}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C23B0C8A-AF62-4B8C-BDA8-A2D3BBEEC534}.Debug|Win32.Build.0 = Debug|Win32
+		{C23B0C8A-AF62-4B8C-BDA8-A2D3BBEEC534}.Release|Win32.ActiveCfg = Release|Win32
+		{C23B0C8A-AF62-4B8C-BDA8-A2D3BBEEC534}.Release|Win32.Build.0 = Release|Win32
+		{002F232B-B379-4AF7-A00A-85744B7E43F9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{002F232B-B379-4AF7-A00A-85744B7E43F9}.Debug|Win32.Build.0 = Debug|Win32
+		{002F232B-B379-4AF7-A00A-85744B7E43F9}.Release|Win32.ActiveCfg = Release|Win32
+		{002F232B-B379-4AF7-A00A-85744B7E43F9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

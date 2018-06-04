@@ -1,0 +1,29 @@
+﻿生成启动时间为 2017/10/15 18:11:42。
+     1>项目“D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\CLFSAppender.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.CLFSAppender.Debug_Unicode\CLFSAppender.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\include /Zi /nologo /W3 /WX- /Od /Oy- /D _DEBUG /D DEBUG /D INSIDE_LOG4CPLUS_CLFSAPPENDER /D LOG4CPLUS_CLFSAPPENDER_BUILD_DLL /D LOG4CPLUS_BUILD_DLL /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.CLFSAppender.Debug_Unicode\\" /Fd"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\bin.Debug_Unicode\log4cplus-CLFSAppender.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\clfsappender.cxx
+         {{xgTaskID=00000077}}
+         clfsappender.cxx
+         {{xgTaskID=00000000}}
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\bin.Debug_Unicode\log4cplus-CLFSAppender.dll" /NOLOGO /LIBPATH:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\bin.Debug_Unicode" clfsw32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.CLFSAppender.Debug_Unicode\log4cplus-CLFSAppender.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\bin.Debug_Unicode\log4cplus-CLFSAppender.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\bin.Debug_Unicode\log4cplus-CLFSAppender.lib" /MACHINE:X86 /DLL "D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.CLFSAppender.Debug_Unicode\clfsappender.obj"
+         "D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\bin.Debug_Unicode\log4cplusUD.lib"
+         {{xgTaskID=0000008D}}
+            正在创建库 D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\bin.Debug_Unicode\log4cplus-CLFSAppender.lib 和对象 D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\bin.Debug_Unicode\log4cplus-CLFSAppender.exp
+         {{xgTaskID=00000000}}
+         CLFSAppender.vcxproj -> D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\bin.Debug_Unicode\log4cplus-CLFSAppender.dll
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\bin.Debug_Unicode\log4cplus-CLFSAppender.dll;#2" /manifest "D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.CLFSAppender.Debug_Unicode\log4cplus-CLFSAppender.dll.intermediate.manifest"
+         {{xgTaskID=00000092}}
+         
+         {{xgTaskID=00000000}}
+       FinalizeBuildStatus:
+         正在删除文件“D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.CLFSAppender.Debug_Unicode\CLFSAppender.unsuccessfulbuild”。
+         正在对“D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.CLFSAppender.Debug_Unicode\CLFSAppender.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\CLFSAppender.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.29

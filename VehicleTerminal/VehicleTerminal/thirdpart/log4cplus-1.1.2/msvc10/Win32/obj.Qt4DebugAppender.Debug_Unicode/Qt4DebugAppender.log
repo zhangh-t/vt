@@ -1,0 +1,15 @@
+﻿生成启动时间为 2017/10/15 18:11:42。
+     1>项目“D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Qt4DebugAppender.vcxproj”在节点 3 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.Qt4DebugAppender.Debug_Unicode\Qt4DebugAppender.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\include /IC:\QtSDK\Desktop\Qt\4.8.1\msvc2010\include /IC:\QtSDK\Desktop\Qt\4.8.1\msvc2010\include\Qt /IC:\QtSDK\Desktop\Qt\4.8.1\msvc2010\include\QtCore /Zi /nologo /W3 /WX- /Od /Oy- /D _DEBUG /D DEBUG /D INSIDE_LOG4CPLUS_QT4DEBUGAPPENDER /D LOG4CPLUS_QT4DEBUGAPPENDER_BUILD_DLL /D LOG4CPLUS_BUILD_DLL /D QT_SHARED /D QT_THREAD_SUPPORT /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\obj.Qt4DebugAppender.Debug_Unicode\\" /Fd"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Win32\bin.Debug_Unicode\log4cplus-Qt4DebugAppender.pdb" /Gd /TP /analyze- /errorReport:prompt ..\qt4debugappender\qt4debugappender.cxx
+         {{xgTaskID=00000079}}
+         qt4debugappender.cxx
+     1>..\qt4debugappender\qt4debugappender.cxx(38): fatal error C1083: 无法打开包括文件:“QtGlobal”: No such file or directory
+         {{xgTaskID=00000000}}
+     1>已完成生成项目“D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\thirdpart\log4cplus-1.1.2\msvc10\Qt4DebugAppender.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:03.15

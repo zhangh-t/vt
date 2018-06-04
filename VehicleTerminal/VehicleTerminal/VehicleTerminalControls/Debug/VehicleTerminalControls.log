@@ -1,0 +1,47 @@
+﻿生成启动时间为 2017/8/1 22:08:38。
+     1>项目“D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\VehicleTerminalControls\VehicleTerminalControls.vcxproj”在节点 2 上(build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output 目录未以斜杠结尾。此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+     1>InitializeBuildStatus:
+         正在创建“Debug\VehicleTerminalControls.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         Moc'ing vtlcdcontrol.h...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtCore /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtNetwork /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtQml /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtSql /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtWebKit /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtScript /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtWebkitWidgets /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtGui /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtWidgets /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtXml /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtXmlPatterns /I"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\\VehicleTerminalControls\include" /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_NETWORK_LIB /D QT_QML_LIB /D QT_SQL_LIB /D QT_SCRIPT_LIB /D QT_WEBKITWIDGETS_LIB /D QT_WIDGETS_LIB /D QT_XML_LIB /D QT_XMLPATTERNS_LIB /D VEHICLETERMINALCONTROLS_LIB /D WINDOWS /D _WINDLL /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Debug\moc_vtlcdcontrol.cpp src\vtlcdcontrol.cpp
+         {{xgTaskID=00000009}}
+         vtlcdcontrol.cpp
+         {{xgTaskID=00000000}}
+         {{xgTaskID=00000008}}
+         moc_vtlcdcontrol.cpp
+         {{xgTaskID=00000000}}
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\..\bin\\VehicleTerminalControlsd.dll" /NOLOGO /LIBPATH:C:\Qt\Qt5.1.1\5.1.1\msvc2010\lib /LIBPATH:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\..\Lib\Win32" qtmaind.lib Qt5Cored.lib Qt5Networkd.lib Qt5Qmld.lib Qt5Sqld.lib Qt5WebKitd.lib Qt5Scriptd.lib Qt5WebkitWidgetsd.lib Qt5Widgetsd.lib Qt5Guid.lib Qt5Xmld.lib Qt5XmlPatternsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\VehicleTerminalControlsd.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\zhangh-t\ax\VehicleTerminal\bin\VehicleTerminalControlsd.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\..\Lib\Win32\VehicleTerminalControlsd.lib" /MACHINE:X86 /DLL Debug\moc_vtdashboard.obj
+         Debug\moc_VTHtmlBoard.obj
+         Debug\moc_vtlcdcontrol.obj
+         Debug\moc_vtmultiinputchart.obj
+         Debug\moc_vtsingleinputsignal.obj
+         Debug\vtcommon.obj
+         Debug\vtdashboard.obj
+         Debug\vtexception.obj
+         Debug\VTHtmlBoard.obj
+         Debug\vtlcdcontrol.obj
+         Debug\vtmultiinputchart.obj
+         Debug\VTPrivate.obj
+         Debug\vtsingleinputsignal.obj
+         {{xgTaskID=0000000A}}
+         LINK : 没有找到 D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\..\bin\\VehicleTerminalControlsd.dll 或上一个增量链接没有生成它；正在执行完全链接
+            正在创建库 D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\..\Lib\Win32\VehicleTerminalControlsd.lib 和对象 D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\..\Lib\Win32\VehicleTerminalControlsd.exp
+         {{xgTaskID=00000000}}
+         VehicleTerminalControls.vcxproj -> D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\..\bin\VehicleTerminalControlsd.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\..\bin\\VehicleTerminalControlsd.dll;#2" /manifest Debug\VehicleTerminalControlsd.dll.intermediate.manifest
+         {{xgTaskID=0000000B}}
+         
+         {{xgTaskID=00000000}}
+       FinalizeBuildStatus:
+         正在删除文件“Debug\VehicleTerminalControls.unsuccessfulbuild”。
+         正在对“Debug\VehicleTerminalControls.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\zhangh-t\ax\VehicleTerminal\VehicleTerminal\VehicleTerminalControls\VehicleTerminalControls.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.96
